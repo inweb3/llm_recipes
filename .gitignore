@@ -6,3 +6,4 @@ artifacts/
 *checkpoint*
 *tfevent*
 /**/*/eval_harness_output
+.llm_recipes
